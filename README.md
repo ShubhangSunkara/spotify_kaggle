@@ -59,11 +59,7 @@ CREATE INDEX idx_artist ON spotify(artist);
   - PostgreSQL
 
 ---
-## Spotify SQL Project: Business Queries & Optimization
 
-This project contains SQL queries to derive insights from a hypothetical Spotify dataset. Below are key business questions answered using SQL along with query optimization techniques.
-
----
 ##  How to Run the Project
 
 1. Install PostgreSQL and pgAdmin
